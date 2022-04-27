@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/wbwthluv";
+            window.location = "https://www.facebook.com/quetran.cherry";
           },
         });
       }
